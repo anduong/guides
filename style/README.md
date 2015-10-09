@@ -56,8 +56,6 @@ Formatting
 * Use [uppercase for SQL key words and lowercase for SQL identifiers].
 
 
-[multi-line arguments]: /style/ruby/sample.rb#L69
-[long method signature]: /style/ruby/sample.rb#L16
 [dot guideline example]: /style/ruby/sample.rb#L11
 [uppercase for SQL key words and lowercase for SQL identifiers]: http://www.postgresql.org/docs/9.2/static/sql-syntax-lexical.html#SQL-SYNTAX-IDENTIFIERS
 [newline explanation]: http://unix.stackexchange.com/questions/23903/should-i-end-my-text-script-files-with-a-newline
