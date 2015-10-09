@@ -39,9 +39,6 @@ Formatting
 * Don't include spaces after `(`, `[` or before `]`, `)`.
 * Don't misspell.
 * Don't vertically align tokens on consecutive lines.
-* If you break up an argument list, keep the arguments on their own lines and
-  closing parenthesis on its own line. [Example 1][multi-line arguments]
-  [Example 2][long method signature]
 * If you break up a hash, keep the elements on their own lines and closing curly
   brace on its own line.
 * Indent continued lines two spaces.
